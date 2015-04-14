@@ -6,7 +6,7 @@ This sould then be used to 'rewrite' compareable musical sequences by combining 
 
 
 Music. This is what We all love and enjoy: 
-But some of the most popular composers are not alive anymore. In millions of musical data-files, provided from various online sources and the "Deutsche National Bibliothek" we still have their work, their data, their musical patterns.
+But some of the most popular composers are not alive anymore. In millions of musical data-files, provided from various online sources we still have their work, their data, their musical patterns.
 Once this can be done, it could be expanded to be trained on every users favorite playlist and then generate structurally comparable songs on demand.
 
 This is the goal of this project: Using data analysis tools and frameworks, I would like to extract the very quintessence out of the music, beginning with monophonic piano sequences, of great composers - like Mozart - and with these learned patterns then create new music following Mozarts principles. 
@@ -18,3 +18,6 @@ By combining these fields in this way, the "NuMozart"-Project aims to increase p
 Therefore, NuMozart opens up a lot of possibilities: 
 Attention due to the 'recreation' of Mozart or other long gone Composers.
 Insight by applying a Cortex-like sturcutred neural network model to the musical data, which might create a better and deeper understanding of the computational operations that occur in the Brain when composing music, and various other possible uses (like theory-testing of the NuPIC learning theory).
+
+
+Pascal Weinberger
